@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "username": "kube changed",
+      "email": "anupama@gmail.com",
+      "contact": "234",
+      "id": 3
+    },
+    {
+      "username": "amalu susan basil",
+      "email": "amalususanb@gmail.com",
+      "contact": "23456709867",
+      "id": 4
+    },
+    {
+      "username": "kubeadmin",
+      "email": "amalususanb@gmail.com",
+      "contact": "23456709867",
+      "id": 5
+    },
+    {
+      "username": "kubeadmin",
+      "email": "aa@gmail.com",
+      "contact": "23456709867",
+      "id": 6
+    },
+    {
+      "username": "kubeadmin",
+      "email": "amalususanb@gmail.com",
+      "contact": "2345670",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+span{
+    color: red;
+    text-align: left;
+    display: none;
+}
+
+input:invalid[focus="true"] ~ span{
+    display: block;
+}
